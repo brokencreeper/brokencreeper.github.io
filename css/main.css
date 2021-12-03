@@ -24,6 +24,9 @@ body {
 .homeText {
     color: rgb(239, 234, 225);
 }
+.homeTitle {
+    color: rgb(208,255,20);
+}
 .maindiv {
     height: 100vh;
 }
